@@ -1,4 +1,4 @@
-Matthew Cloutier
+Matthew Cloutier & Michael D'Angelo
 ECE 2049
 
 This project is intended to run on an MSP430 Launchpad with an LCD display.
